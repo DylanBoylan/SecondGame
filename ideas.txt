@@ -1,0 +1,6 @@
+safe houses
+enimies that follow you
+room zooms out at the start
+shop system
+Stall the enemy
+buy a powerup that will zoom out for 5 seconds
